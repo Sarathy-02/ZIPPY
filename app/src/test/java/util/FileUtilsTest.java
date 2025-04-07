@@ -3,7 +3,7 @@ package util;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.mockito.Mockito.when;
-import static swati4star.createpdf.util.FileUtils.getFileName;
+import static sara.converter.util.FileUtils.getFileName;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -14,8 +14,8 @@ import org.mockito.junit.MockitoJUnitRunner;
 import java.io.File;
 import java.util.TimeZone;
 
-import swati4star.createpdf.util.FileInfoUtils;
-import swati4star.createpdf.util.FileUtils;
+import sara.converter.util.FileInfoUtils;
+import sara.converter.util.FileUtils;
 
 @RunWith(MockitoJUnitRunner.class)
 public class FileUtilsTest {

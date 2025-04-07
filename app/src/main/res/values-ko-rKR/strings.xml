@@ -192,7 +192,7 @@
     <string name="share_chooser">메세지를 보내기 위한 앱을 선택해주세요…</string>
 
     <!-- Rate us strings -->
-    <string name="rate_us_text">안녕하세요. playstore에서 앱을 확인했습니다. https://play.google.com/store/apps/details?id=swati4star.createpdf . 이미지를 PDF로 변환해줍니다. :)</string>
+    <string name="rate_us_text">안녕하세요. playstore에서 앱을 확인했습니다. https://play.google.com/store/apps/details?id=converter . 이미지를 PDF로 변환해줍니다. :)</string>
     <string name="snackbar_no_share_app">공유할 앱이 존재하지않습니다.</string>
 
     <!-- Select Images string -->
@@ -569,7 +569,7 @@
         <item>PDF를 PPT, PPTX, ODT, DOC, DOCX 형식으로 변환할 수 있습니까?#####아니요, PDF는 현재 텍스트 형식으로만 변환할 수 있습니다.</item>
         <item>PDF Converter: Files를 PDF 앱으로 다운로드할 수 있는 위치는 어디입니까?#####이 앱은 Google PlayStore와 F-Droid에서 이용가능합니다.</item>
         <item>제가 이 앱에 기여할 수 있나요?#####네, 가능합니다. <strong>Swati4star/Images-to-PDF</strong>입니다. \n자유롭게 의견을 제출해주세요.(feature requests), 추가되어야한다고 생각되는 버그나 pull request를 제출해주세요. \n 라인 변경 한 개만 추가해도 이 프로젝트의 기여자가 될 수 있습니다. <strong>Contributor\'s guide</strong>를 읽고 시작하세요.</item>
-        <item>FAQ에 없는 질문이 궁금할 때 개발자에게 연락할 수 있는 방법이 있습니까?#####<strong>swati4star@gmail.com</strong>로 이메일 부탁합니다.</item>
+        <item>FAQ에 없는 질문이 궁금할 때 개발자에게 연락할 수 있는 방법이 있습니까?#####<strong>sara@gmail.com</strong>로 이메일 부탁합니다.</item>
     </string-array>
 
 </resources>

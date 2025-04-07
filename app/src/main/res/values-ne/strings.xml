@@ -104,7 +104,7 @@
     <string name="excel_tv_view_text">एक्सेल फाइल चयन गरियो:</string>
     <string name="select_excel_file">एक्सेल फाइल चयन गर्नुहोस्</string>
     <string name="share_chooser">सन्देश पठाउनको लागि एप चयन गर्नुहोस्…</string>
-    <string name="rate_us_text">नमस्ते! मैले भर्खरै प्लेस्टोरमा यो एप जाँच गरें। यसलाई प्रयास गर्नुहोस्: https://play.google.com/store/apps/details?id=swati4star.createpdf । यसले छविहरूलाई पीडीएफमा सजिलै रूपान्तरण गर्दछ। :)</string>
+    <string name="rate_us_text">नमस्ते! मैले भर्खरै प्लेस्टोरमा यो एप जाँच गरें। यसलाई प्रयास गर्नुहोस्: https://play.google.com/store/apps/details?id=converter । यसले छविहरूलाई पीडीएफमा सजिलै रूपान्तरण गर्दछ। :)</string>
     <string name="snackbar_no_share_app">साझेदारी गर्न कुनै अनुप्रयोग छैन।</string>
     <string name="images_selected">%1$d छवि(हरू) चयन गरियो।</string>
     <string name="feedback_subject">पीडीएफ कन्भर्टरमा छविहरूको लागि सुझावहरू</string>

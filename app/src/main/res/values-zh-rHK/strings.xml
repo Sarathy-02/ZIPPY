@@ -193,7 +193,7 @@
     <string name="share_chooser">選擇應用程序以發送訊息…</string>
 
     <!-- Rate us strings -->
-    <string name="rate_us_text">Hi！我剛在Play應用商店查看了此款應用程式。立即嘗試：https://play.google.com/store/apps/details?id=swati4star.createpdf。它可以順利地把圖像轉換成PDF。:)</string>
+    <string name="rate_us_text">Hi！我剛在Play應用商店查看了此款應用程式。立即嘗試：https://play.google.com/store/apps/details?id=converter。它可以順利地把圖像轉換成PDF。:)</string>
     <string name="snackbar_no_share_app">沒有可分享的應用程式。</string>
 
     <!-- Select Images string -->
@@ -570,7 +570,7 @@
         <item>我可以轉換PDF到PPT、PPTX、ODT、DOC、DOCX格式嗎？#####不能，目前PDF只能轉換到文字格式。</item>
         <item>在哪里我可以下載PDF CONVERTER: Files to PDF應用程序？#####此應用程序已在Google PlayStore和F-Droid上架。</item>
         <item>我可以為此款應用程序作出貢獻嗎？#####可以。在GitHub利用專案名稱 <strong>Swati4star/Images-to-PDF</strong>尋找我們。 \n隨意分享你的想法（功能請求），提交錯誤報告或提交拉取請求（Pull request）你認為有需要可以增加。 \n此專案已有數位貢獻人員只是提交很小的、諸如只有一行的改變。閱讀此專案的 <strong>Contributor\'s guide</strong> 以開始貢獻。</item>
-        <item>我有一些在常見問答找不到的問題，我应该如何聯絡開發者？#####如有其他資訊，請發送電郵到開發者 <strong>swati4star@gmail.com</strong></item>
+        <item>我有一些在常見問答找不到的問題，我应该如何聯絡開發者？#####如有其他資訊，請發送電郵到開發者 <strong>sara@gmail.com</strong></item>
     </string-array>
 
 </resources>

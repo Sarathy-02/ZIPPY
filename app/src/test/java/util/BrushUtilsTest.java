@@ -7,9 +7,9 @@ import org.junit.Test;
 
 import java.util.ArrayList;
 
-import swati4star.createpdf.R;
-import swati4star.createpdf.model.BrushItem;
-import swati4star.createpdf.util.BrushUtils;
+import sara.converter.R;
+import sara.converter.model.BrushItem;
+import sara.converter.util.BrushUtils;
 
 public class BrushUtilsTest {
 

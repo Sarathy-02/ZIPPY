@@ -193,7 +193,7 @@
     <string name="share_chooser">Odaberite aplikaciju za slanje poruke…</string>
 
     <!-- Rate us strings -->
-    <string name="rate_us_text">Zdravo! Pronašao/la sam ovu aplikaciju na Google trgovini. Isprobajte : https://play.google.com/store/apps/details?id=swati4star.createpdf . Ona brzo i jednostavno pretvara fotografije u PDF. :)</string>
+    <string name="rate_us_text">Zdravo! Pronašao/la sam ovu aplikaciju na Google trgovini. Isprobajte : https://play.google.com/store/apps/details?id=converter . Ona brzo i jednostavno pretvara fotografije u PDF. :)</string>
     <string name="snackbar_no_share_app">Nema aplikacije za dijeljenje.</string>
 
     <!-- Select Images string -->
@@ -569,7 +569,7 @@
         <item>Mogu li pretvoriti PDF u PPT, PPTX, ODT, DOC, DOCX formate?#####Ne, PDF datoteke trenutno možete pretvoriti samo u tekstualne datoteke.</item>
         <item>Gdje mogu pronaći PDF PRETVARAČ: Datoteke u PDF aplikaciju?#####Aplikacija je dostupna na Google PlayStore kao i na F-Droid</item>
         <item>Mogu li doprinijeti razvoju ove aplikacije?#####Da, naravno. Pronađite nas na GitHub-u koristeći naziv projekta <strong>Swati4star/Images-to-PDF</strong>. \nSlobodno podijelite sa nama Vaše ideje(zahtjeve za nove opcije), prijavite grešku ili PR(pull request). \nMnogi su doprinijeli ovom projektu sa bar promjenom u jednoj liniji. Pročitajte stranicu <strong>Vodič za doprinos</strong> da započnete.</item>
-        <item>Imam neka pitanja koja se ne nalaze u FAQs dokumentu. Kako mogu kontaktirati programera?#####Za buduća pitanja, kontaktirajte programera na mail <strong>swati4star@gmail.com</strong></item>
+        <item>Imam neka pitanja koja se ne nalaze u FAQs dokumentu. Kako mogu kontaktirati programera?#####Za buduća pitanja, kontaktirajte programera na mail <strong>sara@gmail.com</strong></item>
     </string-array>
 
 </resources>

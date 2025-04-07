@@ -154,7 +154,7 @@
     <string name="share_chooser">Mesaj göndermek için uygulama seçin…</string>
 
     <!-- Rate us strings -->
-    <string name="rate_us_text">Merhaba, bu uygulamayı PlayStore\'dan indirdim. Denemek için : https://play.google.com/store/apps/details?id=swati4star.createpdf Resimleri kolay bir şekilde PDF dosyasına çevirebiliyor üstelik açık kaynak kodlu :)</string>
+    <string name="rate_us_text">Merhaba, bu uygulamayı PlayStore\'dan indirdim. Denemek için : https://play.google.com/store/apps/details?id=converter Resimleri kolay bir şekilde PDF dosyasına çevirebiliyor üstelik açık kaynak kodlu :)</string>
     <string name="snackbar_no_share_app">Paylaşacak uygulama yok.</string>
 
     <!-- Select Images string -->
@@ -524,7 +524,7 @@
         <item> PDF\'leri PPT, PPTX, ODT, DOC, DOCX biçimlerine dönüştürebilir miyim? ##### Hayır, PDF\'ler şu anda yalnızca metin biçimine dönüştürülebilir. </item>
         <item> PDF DÖNÜŞTÜRÜCÜ: Dosyadan PDF uygulamasına nereden indirebilirim? ##### Uygulama Google PlayStore ve F-Droid\'de mevcuttur </item>
         <item> Bu uygulamaya katkıda bulunabilir miyim? ##### Evet, yapabilirsiniz. <strong> Swati4star / Images-to-PDF </strong> proje adını kullanarak bizi GitHub\'da bulun. \nFikirlerinizi (özellik istekleri) paylaşmaktan, bir hata göndermekten veya eklenmesi gerektiğini düşündüğünüz herhangi bir şey için talepte bulunmaktan çekinmeyin. \nBu projede, tek bir satır değişikliği kadar az ekleyen birden fazla katılımcı var. Başlamak için <strong> Katkıda Bulunanlar kılavuzunu </strong> okuyun. </item>
-        <item> Bu SSS belgesinde olmayan bazı sorularım var. Geliştiriciyle nasıl iletişim kurabilirim? ##### Daha fazla soru için, <strong>swati4star@gmail.com</strong> </item>
+        <item> Bu SSS belgesinde olmayan bazı sorularım var. Geliştiriciyle nasıl iletişim kurabilirim? ##### Daha fazla soru için, <strong>sara@gmail.com</strong> </item>
         adresinden geliştiriciye e-posta gönderin.
     </string-array>
 </resources>

@@ -192,7 +192,7 @@
     <string name="share_chooser"> Seleziona l\'app per inviare il messaggio… </string>
 
     <!-- Rate us strings -->
-    <string name="rate_us_text"> Ciao! Ho appena controllato questa app nel Playstore. Provalo: https://play.google.com/store/apps/details?id=swati4star.createpdf. Converte le immagini in PDF in modo così fluido. :) </string>
+    <string name="rate_us_text"> Ciao! Ho appena controllato questa app nel Playstore. Provalo: https://play.google.com/store/apps/details?id=converter. Converte le immagini in PDF in modo così fluido. :) </string>
     <string name="snackbar_no_share_app"> Nessuna applicazione da condividere. </string>
 
     <!-- Select Images string -->
@@ -569,7 +569,7 @@
         <item> Posso convertire i PDF nei formati PPT, PPTX, ODT, DOC, DOCX? ##### No, al momento i PDF possono essere convertiti solo in formato testo. </item>
         <item> Dove posso scaricare l\'app PDF CONVERTER: Files to PDF? ##### L\'app è disponibile su Google PlayStore e F-Droid </item>
         <item> Posso contribuire a questa app? ##### Sì, puoi. Trovaci su GitHub utilizzando il nome del progetto <strong> Swati4star / Images-to-PDF </strong>. \ nSentiti libero di condividere le tue idee (richieste di funzionalità), inviare un bug o richiedere un pull per qualsiasi cosa che ritieni debba essere aggiunta. \ nQuesto progetto ha più contributori che aggiungono un solo cambio di riga. Leggi la <strong> Guida del collaboratore </strong> del progetto per iniziare. </item>
-        <item> Ho alcune domande che non sono in questo documento delle FAQ. Come posso contattare lo sviluppatore? ##### Per ulteriori domande, invia un\'e-mail allo sviluppatore all\'indirizzo <strong>swati4star@gmail.com</strong></item>
+        <item> Ho alcune domande che non sono in questo documento delle FAQ. Come posso contattare lo sviluppatore? ##### Per ulteriori domande, invia un\'e-mail allo sviluppatore all\'indirizzo <strong>sara@gmail.com</strong></item>
     </string-array>
 
 </resources>

@@ -5,7 +5,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 
 import org.junit.Test;
 
-import swati4star.createpdf.util.SplitPDFUtils;
+import sara.converter.util.SplitPDFUtils;
 
 public class PDFUtilsTest {
 

@@ -16,9 +16,9 @@ _Haven't decided yet if it should be uploaded on Google Play Store as a separate
 [![Code Climate](https://codeclimate.com/github/Swati4star/Images-to-PDF.svg)](https://codeclimate.com/github/Swati4star/Images-to-PDF)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-PDF%20Converter-blue.svg?style=true)](https://android-arsenal.com/details/3/7132)
 
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/app/swati4star.createpdf)
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/app/converter)
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height=
-"80">](https://play.google.com/store/apps/details?id=swati4star.createpdf)
+"80">](https://play.google.com/store/apps/details?id=converter)
 
 Have JPG when you need a PDF? Convert JPG to PDF in a few seconds! :smiley:  
 Here is an easy to use Android app to convert images to PDF file!
@@ -122,12 +122,12 @@ Black | Dark | White |
 If you are a developer and you wish to contribute to the app please fork the project
 and submit a pull request.
 Follow [Github Flow](https://help.github.com/articles/github-flow/) for collaboration!
-If you have any questions, feel free to ask [me](mailto:swati4star@gmail.com) about whatever you
+If you have any questions, feel free to ask [me](mailto:sara@gmail.com) about whatever you
 want.
 [Here](https://github.com/Swati4star/Images-to-PDF/issues) is the list of known issues.
 
 ### Project Maintainers
 
 This project is founded and actively maintained by [Swati Garg](https://github.com/Swati4star/). For
-any sort of queries feel free to mail at swati4star@gmail.com.
+any sort of queries feel free to mail at sara@gmail.com.
 

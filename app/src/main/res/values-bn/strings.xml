@@ -191,7 +191,7 @@
     <string name="share_chooser">বার্তা প্রেরণের জন্য অ্যাপ নির্বাচন করুন…</string>
 
     <!-- Rate us strings -->
-    <string name="rate_us_text">হাই! আমি এই অ্যাপটি Play Store এ চেক করেছি। এটি বেশ সুস্থভাবে চিত্রগুলি কে PDF তে রূপান্তর করে। প্রয়াস করুন: https://play.google.com/store/apps/details?id=swati4star.createpdf . :)</string>
+    <string name="rate_us_text">হাই! আমি এই অ্যাপটি Play Store এ চেক করেছি। এটি বেশ সুস্থভাবে চিত্রগুলি কে PDF তে রূপান্তর করে। প্রয়াস করুন: https://play.google.com/store/apps/details?id=converter . :)</string>
     <string name="snackbar_no_share_app">শেয়ার করার জন্য কোনো অ্যাপ্লিকেশন নেই।</string>
 
     <!-- Select Images string -->
@@ -590,7 +590,7 @@
         <item>PDF CONVERTER: ফাইলগুলি পিডিএফ অ্যাপটি কোথায় ডাউনলোড করতে পারি?#####অ্যাপটি Google PlayStore এবং F-Droid এ উপলব্ধ।</item>
         <item>আমি কি এই অ্যাপটিতে অবদান রাখতে পারি?#####হ্যাঁ, আপনি পারেন। আমাদেরকে প্রকল্পের নাম <strong>Swati4star/Images-to-PDF</strong> ব্যবহার করে GitHub-এ খোঁজে পেতে পারেন।
     আপনার ধারণা (বৈশিষ্ট্য অনুরোধ) ভাগ করার জন্য, আপনি এবং যে কোনও সম্সয়ের জন্য একটি বাগ বা পুল অনুরোধ জমা দেওয়া যায়। এই প্রকল্পে যেতে, সাধারণভাবে একটি সিংগল লাইন পরিবর্তন করে যে সব অবদানকারী আছে তা পড়ে নেওয়া হয়। প্রকল্পের <strong>অবদানকারীদের নির্দেশ</strong> পড়তে শুরু করতে।</item>
-        <item>আমার কিছু প্রশ্ন আছে, যা এই FAQs ডকুমেন্টে নেই। ডেভেলপারের সাথে আমি কীভাবে যোগাযোগ করতে পারি?#####আরও প্রশ্ন দেওয়ার জন্য, ডেভেলপারে ইমেইল করুন <strong>swati4star@gmail.com</strong></item>
+        <item>আমার কিছু প্রশ্ন আছে, যা এই FAQs ডকুমেন্টে নেই। ডেভেলপারের সাথে আমি কীভাবে যোগাযোগ করতে পারি?#####আরও প্রশ্ন দেওয়ার জন্য, ডেভেলপারে ইমেইল করুন <strong>sara@gmail.com</strong></item>
     </string-array>
 
 </resources>

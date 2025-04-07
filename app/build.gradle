@@ -4,7 +4,7 @@ apply plugin: 'org.jetbrains.kotlin.android'
 android {
     compileSdk 35
     defaultConfig {
-        applicationId "swati4star.createpdf"
+        applicationId "sara.converter"
         vectorDrawables.useSupportLibrary = true
         minSdkVersion 23
         multiDexEnabled true
@@ -42,7 +42,7 @@ android {
             returnDefaultValues = true
         }
     }
-    namespace 'swati4star.createpdf'
+    namespace 'sara.converter'
     lint {
         checkReleaseBuilds false
     }

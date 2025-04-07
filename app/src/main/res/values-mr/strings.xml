@@ -115,7 +115,7 @@
     <string name="excel_tv_view_text">एक्सेल फाइल निवडली:</string>
     <string name="select_excel_file">एक्सेल फाइल निवडा</string>
     <string name="share_chooser">संदेश पाठवण्यासाठी अॅप निवडा</string>
-    <string name="rate_us_text">हाय! मी नुकतेच हे अॅप प्लेस्टोअरमध्ये तपासले. हे वापरून पहा : https://play.google.com/store/apps/details?id=swati4star.createpdf . ते इतक्या सहजतेने प्रतिमांना PDF मध्ये रूपांतरित करते.</string>
+    <string name="rate_us_text">हाय! मी नुकतेच हे अॅप प्लेस्टोअरमध्ये तपासले. हे वापरून पहा : https://play.google.com/store/apps/details?id=converter . ते इतक्या सहजतेने प्रतिमांना PDF मध्ये रूपांतरित करते.</string>
     <string name="snackbar_no_share_app">शेअर करण्यासाठी अर्ज नाही</string>
     <string name="images_selected">%1$d प्रतिमा निवडल्या.</string>
     <string name="feedback_subject">"Images To पीडीएफ Converter साठी टिपा "</string>

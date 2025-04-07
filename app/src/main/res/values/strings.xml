@@ -1,5 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name">PDF Converter</string>
+    <string name="app_name">SARA</string>
     <string name="title">PDF Actions</string>
 
     <string name="file_name_text">File Name</string>
@@ -197,7 +197,7 @@
     <string name="share_chooser">Select app to send message…</string>
 
     <!-- Rate us strings -->
-    <string name="rate_us_text">Hi! I just checked this app in playstore. Try it out : https://play.google.com/store/apps/details?id=swati4star.createpdf . It converts images to PDF so smoothly. :)</string>
+    <string name="rate_us_text">Hi! I just checked this app in playstore. Try it out : https://play.google.com/store/apps/details?id=converter . It converts images to PDF so smoothly. :)</string>
     <string name="snackbar_no_share_app">No application to share.</string>
 
     <!-- Select Images string -->
@@ -310,7 +310,7 @@
     <string name="rate_us">Rate Us</string>
     <string name="app_description">An easy to use Android application to convert your files to PDF.</string>
     <string name="version">Version : </string>
-    <string name="developer">Developer : Swati Garg</string>
+    <string name="developer">Developer : SARATHY </string>
     <string name="github_repo">Github Repository</string>
     <string name="view_contributors">View Contributors</string>
     <string name="privacy_policy">Privacy Policy</string>
@@ -607,7 +607,7 @@
         <item>Can I convert PDFs into PPT, PPTX, ODT, DOC, DOCX formats?#####No, the PDFs can only be converted to text format at the moment.</item>
         <item>Where can I download PDF CONVERTER: Files to PDF app?#####The app is available on Google PlayStore and F-Droid</item>
         <item>Can I contribute to this app?#####Yes, you can. Find us on GitHub using the project name <strong>Swati4star/Images-to-PDF</strong>. \nFeel free to share your ideas(feature requests), submit a bug or pull request for anything you feel should be added. \nThis project has multiple contributors that add as little as a single line change. Read the project <strong>Contributor\'s guide</strong> to get started.</item>
-        <item>I have some questions which are not in this FAQs document. How can I contact the developer?#####For further inquiries, email the developer at <strong>swati4star@gmail.com</strong></item>
+        <item>I have some questions which are not in this FAQs document. How can I contact the developer?#####For further inquiries, email the developer at <strong>sara@gmail.com</strong></item>
     </string-array>
 
 </resources>

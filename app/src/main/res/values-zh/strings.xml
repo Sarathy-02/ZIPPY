@@ -188,7 +188,7 @@
     <string name="share_chooser">选择发送消息的应用…</string>
 
     <!-- 评价我们的字符串 -->
-    <string name="rate_us_text">嗨！我刚在应用商店试了这个应用。试试吧：https://play.google.com/store/apps/details?id=swati4star.createpdf 。它可以轻松将图像转换为PDF文件。 :)</string>
+    <string name="rate_us_text">嗨！我刚在应用商店试了这个应用。试试吧：https://play.google.com/store/apps/details?id=converter 。它可以轻松将图像转换为PDF文件。 :)</string>
     <string name="snackbar_no_share_app">没有可分享的应用。</string>
 
     <!-- 选择图像字符串 -->
@@ -573,7 +573,7 @@
       <item>我可以将PDF转换为PPT、PPTX、ODT、DOC、DOCX等格式吗？#####不，目前PDF只能转换为文本格式。</item>
       <item>我在哪里可以下载PDF CONVERTER：Files to PDF应用？#####该应用程序可在Google Play商店和F-Droid上下载。</item>
       <item>我可以为该应用做出贡献吗？#####是的，可以。在GitHub上找到我们，使用项目名称<strong>Swati4star/Images-to-PDF</strong>。 \n随时分享您的想法（功能请求），提交错误或拉取请求，以添加任何您认为应该添加的内容。 \n该项目有多名贡献者，甚至可以只添加一行代码变更。阅读项目的<strong>贡献者指南</strong>以开始。</item>
-      <item>我有一些不在此常见问题文档中的问题。我如何联系开发人员？#####如需进一步咨询，请发送电子邮件至<strong>swati4star@gmail.com</strong></item>
+      <item>我有一些不在此常见问题文档中的问题。我如何联系开发人员？#####如需进一步咨询，请发送电子邮件至<strong>sara@gmail.com</strong></item>
     </string-array>
 
 </resources>
